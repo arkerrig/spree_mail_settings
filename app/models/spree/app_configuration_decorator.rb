@@ -1,3 +1,4 @@
+require 'spree/core'
 module Spree
   AppConfiguration.class_eval do
     # Default mail headers settings
